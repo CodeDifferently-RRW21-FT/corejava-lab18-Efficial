@@ -28,7 +28,8 @@ public class SnackInventory {
         return quantity;
     }
 
-    public Integer getPriceOfJuice() {return 4;
+    public Integer getPriceOfJuice() {
+        return 4;
     }
 
     public Integer getQuantityOfWater() {
